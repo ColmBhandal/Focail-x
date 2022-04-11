@@ -1,4 +1,4 @@
-**THIS PROJECT IS A WORK-IN-PROGRESS.**
+**THIS PROJECT IS A PLACEHOLDER ONLY FOR NOW.**
 
 # Focail-x
 Excel-based game for learning sentence translations
